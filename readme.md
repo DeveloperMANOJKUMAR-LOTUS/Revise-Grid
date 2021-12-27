@@ -1,9 +1,4 @@
-<style>
-    #properties{
-        font-size: 20px;
-        font-style: oblique;
-    }
-</style>
+
 ### Learning Grid 
 
 #### Grid Consistes of Container and item properties 
