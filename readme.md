@@ -25,7 +25,7 @@
 *  grid-auto-column
 </div>
 
-## Grid Container Properties :
+## Grid item Properties :
 <div id="properties">
 
 * grid-row
