@@ -3,6 +3,8 @@
 
 #### Grid Consistes of Container and item properties 
 
+Added basics source code need to upload the remaining code before the feb month 
+
 ## Grid Container Properties :
 <div id="properties">
 
